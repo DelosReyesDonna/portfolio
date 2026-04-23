@@ -46,6 +46,11 @@ $social-icons-background-color: {{ site.social_icons_background_color }};
   color: #2575fc;
   transform: scale(1.2);
 }
+
+.headerName {
+  text-decoration: none;
+  color: inherit;
+}
 @import 
     "base",
     "layout",
