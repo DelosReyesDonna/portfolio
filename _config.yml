@@ -12,7 +12,7 @@ presskit_download_link                    : https://emilbaehr.com               
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Bernardo Jumong                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Tamallana                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Pinakamasipag na student sa lahat
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Bernardo Jumong Tamallana                                
 your_link                                 : https://delosreyesdonna.github.io/portfolio                     
 your_city                                 : Quezon, Nueva Ecija, Philippines                                
-email_address                             : emil.baehr@gmail.com
+email_address                             : jumongbernardo7@gmail.com
 linkedin_username                         :                                           
 linkedin_company                          :                                           
 facebook_username                         :                                           
@@ -41,14 +41,6 @@ features:
   - title: Portfolio Website
     description: A personal website showcasing my skills, projects, and background.
     fontawesome_icon_name: laptop
-
-  - title: Online Store Website
-    description: An e-commerce website built using WordPress and WooCommerce.
-    fontawesome_icon_name: shopping-cart
-
-  - title: Bus Scheduling System
-    description: A system for managing drivers, routes, and schedules efficiently.
-    fontawesome_icon_name: bus
 
   - title: Web Development Skills
     description: Skilled in HTML, CSS, basic JavaScript, and WordPress.
