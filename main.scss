@@ -50,7 +50,9 @@ $social-icons-background-color: {{ site.social_icons_background_color }};
 .headerName {
   text-decoration: none;
   color: inherit;
+  font-weight: bold;
 }
+
 @import 
     "base",
     "layout",
