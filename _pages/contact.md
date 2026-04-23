@@ -13,15 +13,15 @@ include_in_header: true
     <i class="fab fa-github"></i>
   </a>
 
-  <a href="https://facebook.com/yourprofile" target="_blank" class="social-btn">
+  <a href="https://www.facebook.com/jumongnyaknyak" target="_blank" class="social-btn">
     <i class="fab fa-facebook"></i>
   </a>
 
-  <a href="https://instagram.com/yourusername" target="_blank" class="social-btn">
+  <a href="https://www.instagram.com/brnrdo_jums" target="_blank" class="social-btn">
     <i class="fab fa-instagram"></i>
   </a>
 
-  <a href="mailto:your-email@gmail.com" class="social-btn">
+  <a href="mailto:jumongbernardo7@gmail.com" class="social-btn">
     <i class="fas fa-envelope"></i>
   </a>
 
